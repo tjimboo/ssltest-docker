@@ -2,4 +2,6 @@
 *.cer
 *.crt
 *.pem
-
+etc-letsencrypt
+var-letsencrypt
+log-letsencrypt
