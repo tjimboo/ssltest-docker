@@ -2,7 +2,7 @@ version: '3'
 services:
   nginx:
     build:
-      context: /home/tjimboo/ssltest/
+      context: /home/tjimboo/ssltest-docker/
       dockerfile: Dockerfile
     ports:
       - "443:8443"
